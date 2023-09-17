@@ -335,9 +335,7 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 33px;
-    margin-left: 0;
-    margin-bottom: 27px;
+    margin: 33px 33px 27px auto;
   }
 } .u-section-2 {
   background-image: none;
