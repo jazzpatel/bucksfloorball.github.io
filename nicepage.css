@@ -41903,16 +41903,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
    .u-header {
-    min-height: 63px;
+    min-height: 64px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 15px;
-    margin-right: calc(((100% - 340px) / 2) + -38px);
+    margin-top: 16px;
+    margin-right: calc(((100% - 340px) / 2));
+    margin-bottom: 0;
   }
 
   .u-header .u-image-1 {
     width: 263px;
+    left: 0;
     height: auto;
     margin: initial;
   }
